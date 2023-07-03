@@ -1,0 +1,13 @@
+0 Anomaly detected
+1 Anomaly detected
+2 Anomaly detected
+3 Anomaly detected
+4 Anomaly detected
+5 Anomaly detected
+6 Anomaly detected
+7 Normal
+8 Anomaly detected
+9 Anomaly detected
+10 Anomaly detected
+11 Anomaly detected
+12 Anomaly detected
